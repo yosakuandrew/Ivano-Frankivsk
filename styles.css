@@ -20,7 +20,7 @@ img {
 }
 
 #back {
-    background-image: url(/ivano-frankivsk/images/ratush.jpg);
+    background-image: url(ratush.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
